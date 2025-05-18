@@ -46,3 +46,8 @@ Se você acredita no poder da tecnologia para transformar o setor social, Edital
 * Confiança no Futuro: Acreditar no potencial de EditalIA para se tornar uma referência na busca de financiamento para o terceiro setor.
   
 Junte-se a nós nessa jornada! Vote em EditalIA e vamos juntos construir um ecossistema de impacto social mais forte e conectado!
+
+Prévia da tentativa de fazer uma interface web.
+![image](https://github.com/user-attachments/assets/404b1b53-53d3-4472-b5f9-2497c1491b4e)
+
+
